@@ -1,5 +1,4 @@
 {
-	"$schema": "https://ui.shadcn.com/schema.json",
 	"style": "default",
 	"rsc": true,
 	"tsx": true,
@@ -11,9 +10,8 @@
 		"prefix": "tw-"
 	},
 	"aliases": {
-		"ui": "@/shared/lib/shadcn/ui",
-		"utils": "@/shared/lib/shadcn/utils",
-		"components": "@/shared/lib/shadcn/components"
+		"components": "@/shared/lib/shadcn/components",
+		"utils": "@/shared/lib/shadcn/utils"
 	},
 	"iconLibrary": "lucide"
 }
